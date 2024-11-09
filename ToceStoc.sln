@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToceStoc", "ToceStoc.csproj", "{057486B3-EB50-4D1A-BAFE-2EAC4930D48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057486B3-EB50-4D1A-BAFE-2EAC4930D48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057486B3-EB50-4D1A-BAFE-2EAC4930D48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057486B3-EB50-4D1A-BAFE-2EAC4930D48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057486B3-EB50-4D1A-BAFE-2EAC4930D48A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35247198-21C8-49D7-A449-BA0804619FC7}
+	EndGlobalSection
+EndGlobal
